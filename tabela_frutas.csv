@@ -1,0 +1,251 @@
+codigo_produto,nome_produto,preco_un
+1,Caju Desidratada,6.45
+2,Graviola Orgânica,1.83
+3,Maçã Importada,1.0
+4,Pitanga Desidratada,13.09
+5,Banana,2.31
+6,Maçã,2.6
+7,Laranja Nacional,5.21
+8,Abacaxi Desidratada,13.46
+9,Cupuaçu,7.8
+10,Amora Importada,16.9
+11,Abacaxi Desidratada,14.43
+12,Manga Orgânica,3.68
+13,Banana Importada,16.34
+14,Coco Orgânica,1.3
+15,Amora Orgânica,3.38
+16,Abacaxi Importada,12.73
+17,Tangerina Orgânica,7.44
+18,Cupuaçu Orgânica,1.39
+19,Tamarindo Importada,10.96
+20,Amora Orgânica,10.94
+21,Coco,4.53
+22,Carambola Congelada,8.46
+23,Lichia Desidratada,2.92
+24,Maçã,11.37
+25,Tamarindo Orgânica,19.88
+26,Lichia Importada,19.33
+27,Melão Congelada,1.54
+28,Jabuticaba Desidratada,14.94
+29,Abacaxi Congelada,3.11
+30,Manga Desidratada,10.02
+31,Jaca,1.52
+32,Pera Desidratada,19.52
+33,Jabuticaba Orgânica,14.95
+34,Morango Desidratada,10.59
+35,Abacaxi,19.27
+36,Morango,5.27
+37,Pitanga,3.61
+38,Pitanga Desidratada,9.45
+39,Jabuticaba Congelada,11.24
+40,Maçã Congelada,15.38
+41,Tamarindo Desidratada,14.81
+42,Uva,18.27
+43,Uva,2.23
+44,Figo Orgânica,15.21
+45,Cupuaçu Desidratada,4.2
+46,Melão Orgânica,15.34
+47,Morango Importada,17.64
+48,Graviola Nacional,17.43
+49,Acerola Orgânica,9.93
+50,Lichia Nacional,3.58
+51,Coco Importada,8.48
+52,Figo Importada,6.79
+53,Melancia Desidratada,12.51
+54,Abacaxi Importada,17.9
+55,Kiwi Nacional,2.63
+56,Pitanga Orgânica,17.38
+57,Pera Nacional,4.48
+58,Morango Congelada,5.61
+59,Jaca Nacional,9.83
+60,Pitanga Nacional,18.22
+61,Abacaxi,5.88
+62,Coco Desidratada,1.4
+63,Abacaxi Nacional,17.47
+64,Jaca Congelada,3.42
+65,Amora Nacional,19.43
+66,Uva Desidratada,3.03
+67,Coco Importada,17.15
+68,Amora Orgânica,17.79
+69,Maracujá Importada,7.84
+70,Carambola Orgânica,5.28
+71,Kiwi,11.62
+72,Acerola Desidratada,10.98
+73,Banana,15.76
+74,Pitanga Congelada,10.1
+75,Caju Importada,7.69
+76,Manga Desidratada,19.23
+77,Maracujá Congelada,11.96
+78,Caju Congelada,10.42
+79,Laranja Congelada,3.59
+80,Graviola Importada,5.77
+81,Kiwi Orgânica,14.14
+82,Jabuticaba,6.13
+83,Tangerina Importada,3.41
+84,Melão Nacional,1.85
+85,Goiaba,5.46
+86,Romã Nacional,3.68
+87,Tamarindo Importada,17.14
+88,Romã Importada,1.41
+89,Tamarindo Congelada,15.44
+90,Acerola Nacional,13.77
+91,Uva Congelada,3.77
+92,Laranja Importada,19.34
+93,Melancia Congelada,3.87
+94,Banana Congelada,4.13
+95,Pera Orgânica,9.15
+96,Tangerina Desidratada,14.46
+97,Jaca Importada,18.92
+98,Melão Congelada,15.57
+99,Lichia Congelada,7.99
+100,Jabuticaba Desidratada,6.37
+101,Caju Desidratada,2.74
+102,Maçã Orgânica,2.1
+103,Acerola Nacional,5.99
+104,Carambola Congelada,1.93
+105,Uva Nacional,9.0
+106,Amora Orgânica,13.18
+107,Kiwi,12.66
+108,Manga Nacional,12.71
+109,Tangerina Nacional,12.2
+110,Manga,12.07
+111,Romã Orgânica,18.97
+112,Maçã Congelada,12.21
+113,Maracujá Importada,17.29
+114,Laranja Congelada,7.07
+115,Caju,3.2
+116,Morango,2.25
+117,Abacaxi Nacional,12.0
+118,Manga Desidratada,9.21
+119,Tamarindo Orgânica,14.47
+120,Laranja Nacional,17.91
+121,Cupuaçu Orgânica,6.45
+122,Acerola Nacional,6.1
+123,Morango Importada,10.9
+124,Figo Desidratada,14.14
+125,Morango,11.7
+126,Abacaxi,9.32
+127,Pitanga Desidratada,11.01
+128,Morango Orgânica,14.85
+129,Manga Importada,13.6
+130,Pitanga Orgânica,19.89
+131,Kiwi Orgânica,7.59
+132,Jaca Nacional,4.41
+133,Graviola Desidratada,19.3
+134,Maracujá Nacional,13.11
+135,Maçã Congelada,7.23
+136,Jaca,14.52
+137,Amora Orgânica,15.47
+138,Laranja Importada,8.09
+139,Tangerina Nacional,5.27
+140,Tamarindo,19.41
+141,Cupuaçu Congelada,17.4
+142,Abacaxi Importada,14.78
+143,Cupuaçu Importada,2.67
+144,Maçã Nacional,19.24
+145,Abacaxi,18.78
+146,Mamão Importada,2.54
+147,Acerola Desidratada,11.2
+148,Maracujá Desidratada,18.84
+149,Goiaba Desidratada,1.03
+150,Pitanga Importada,2.43
+151,Uva Congelada,9.66
+152,Jaca,16.16
+153,Figo Importada,5.91
+154,Acerola,4.28
+155,Melancia Nacional,11.31
+156,Jaca Congelada,2.68
+157,Pera Nacional,11.95
+158,Maracujá Desidratada,12.61
+159,Figo Importada,17.11
+160,Morango Nacional,9.0
+161,Goiaba Orgânica,8.71
+162,Maracujá Orgânica,6.35
+163,Jabuticaba Desidratada,5.92
+164,Framboesa Importada,11.78
+165,Mamão Congelada,18.31
+166,Maracujá Desidratada,17.37
+167,Banana,15.33
+168,Framboesa,10.9
+169,Amora Desidratada,13.41
+170,Laranja,4.36
+171,Carambola,6.79
+172,Jaca Orgânica,4.43
+173,Melancia Importada,6.86
+174,Framboesa Importada,6.07
+175,Abacaxi,11.78
+176,Morango Orgânica,12.3
+177,Morango Congelada,2.86
+178,Lichia Nacional,15.93
+179,Caju Desidratada,15.97
+180,Figo Desidratada,7.58
+181,Morango Desidratada,5.15
+182,Melancia Congelada,18.9
+183,Pera Nacional,7.85
+184,Melancia Nacional,13.45
+185,Jaca Orgânica,4.36
+186,Figo,10.03
+187,Figo Nacional,17.23
+188,Cupuaçu Importada,18.89
+189,Jaca Desidratada,18.63
+190,Coco Nacional,6.7
+191,Cupuaçu Congelada,14.15
+192,Carambola Nacional,10.94
+193,Figo Importada,13.67
+194,Kiwi,5.34
+195,Coco Nacional,2.35
+196,Melão Orgânica,11.62
+197,Pitanga Importada,1.89
+198,Romã Orgânica,14.31
+199,Pitanga Desidratada,15.77
+200,Manga Importada,19.5
+201,Laranja Congelada,2.56
+202,Tangerina Importada,5.07
+203,Caju,11.35
+204,Maracujá Congelada,13.52
+205,Tangerina,18.38
+206,Maçã Importada,17.59
+207,Melancia,1.18
+208,Melancia Orgânica,11.86
+209,Morango,16.92
+210,Maçã Importada,17.57
+211,Cupuaçu Orgânica,8.22
+212,Laranja Importada,5.75
+213,Melão,2.44
+214,Banana Congelada,7.99
+215,Figo Importada,8.53
+216,Uva Importada,15.99
+217,Caju Nacional,16.82
+218,Goiaba Congelada,13.4
+219,Amora Importada,2.77
+220,Tamarindo Desidratada,4.48
+221,Tamarindo Importada,16.68
+222,Mamão Orgânica,12.98
+223,Pera Desidratada,9.25
+224,Caju Nacional,3.4
+225,Abacaxi Orgânica,13.62
+226,Framboesa Congelada,7.15
+227,Kiwi,10.45
+228,Melancia Importada,2.13
+229,Amora Nacional,17.51
+230,Goiaba Orgânica,7.82
+231,Cupuaçu,9.52
+232,Caju Congelada,4.08
+233,Goiaba,17.81
+234,Pera Congelada,8.36
+235,Tangerina Desidratada,8.7
+236,Jabuticaba Desidratada,11.14
+237,Graviola Orgânica,5.51
+238,Laranja Desidratada,15.1
+239,Caju Importada,13.96
+240,Lichia,6.67
+241,Figo Importada,4.16
+242,Coco Orgânica,10.38
+243,Pera Orgânica,9.16
+244,Maracujá Desidratada,9.14
+245,Tamarindo Congelada,7.52
+246,Melancia,15.98
+247,Mamão Desidratada,8.22
+248,Lichia Orgânica,13.87
+249,Maracujá Nacional,9.9
+250,Manga Congelada,2.08

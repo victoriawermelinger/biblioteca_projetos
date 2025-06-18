@@ -1,0 +1,251 @@
+codigo_destino_exportacao,nome_destino_export,populacao,distrito
+1,São Petersburgo,4746498,Comercial
+2,Buenos Aires,4291107,Sul
+3,Dubai,4092277,Leste
+4,Lisboa,6579285,Metropolitano
+5,Tóquio,3833928,Norte
+6,Barcelona,1499990,Histórico
+7,Tóquio,6605332,Industrial
+8,Paris,191685,Turístico
+9,São Petersburgo,2788274,Comercial
+10,Buenos Aires,5139856,Leste
+11,Lisboa,7214889,Industrial
+12,Sydney,4425467,Norte
+13,Paris,776911,Centro
+14,Roma,7147904,Turístico
+15,Nova York,5323786,Norte
+16,Dubai,8935946,Turístico
+17,Roma,7356491,Turístico
+18,Paris,2620390,Oeste
+19,Barcelona,1559625,Metropolitano
+20,Toronto,4925401,Industrial
+21,Dubai,7358247,Metropolitano
+22,Paris,5808005,Leste
+23,Moscou,6591297,Industrial
+24,Chicago,5336198,Metropolitano
+25,Nova York,5655960,Comercial
+26,São Petersburgo,3218378,Comercial
+27,Chicago,1655750,Industrial
+28,Seul,2799180,Oeste
+29,Moscou,5713184,Comercial
+30,Seul,2686142,Norte
+31,Buenos Aires,858904,Turístico
+32,Bangcoc,7371046,Metropolitano
+33,Lisboa,1200230,Leste
+34,Lisboa,1394333,Comercial
+35,Bangcoc,4440878,Industrial
+36,Dubai,588541,Histórico
+37,Seul,5330250,Oeste
+38,Pequim,1676240,Leste
+39,Tóquio,5986936,Leste
+40,Los Angeles,8255965,Comercial
+41,Los Angeles,192117,Comercial
+42,Sydney,5370885,Industrial
+43,Nova York,4491007,Sul
+44,Londres,4037080,Sul
+45,Sydney,1923825,Centro
+46,Lisboa,3943418,Histórico
+47,Paris,9636266,Industrial
+48,Sydney,9503349,Centro
+49,Dubai,4702400,Norte
+50,Dubai,1701675,Norte
+51,Lisboa,743607,Comercial
+52,Paris,2019268,Turístico
+53,Toronto,1213443,Leste
+54,Sydney,3394808,Comercial
+55,Barcelona,7265641,Metropolitano
+56,Tóquio,5213275,Metropolitano
+57,Paris,928163,Comercial
+58,Moscou,1111631,Metropolitano
+59,Lisboa,2190112,Sul
+60,Chicago,7294567,Turístico
+61,Buenos Aires,3994994,Histórico
+62,Paris,709858,Metropolitano
+63,Nova York,6804984,Histórico
+64,Cidade do Cabo,1907455,Centro
+65,Pequim,8700806,Centro
+66,Cidade do Cabo,3578536,Turístico
+67,Paris,9270856,Comercial
+68,Buenos Aires,7595634,Turístico
+69,Los Angeles,2413206,Oeste
+70,Barcelona,7761998,Industrial
+71,Tóquio,7457884,Industrial
+72,Chicago,8710325,Leste
+73,Buenos Aires,8462580,Oeste
+74,Tóquio,9738877,Leste
+75,Sydney,9916868,Oeste
+76,Lisboa,1919833,Comercial
+77,Toronto,8822885,Leste
+78,Roma,9548480,Centro
+79,Roma,6196309,Centro
+80,Roma,5651131,Leste
+81,Nova York,3502217,Metropolitano
+82,Lisboa,9517468,Industrial
+83,Paris,4787971,Norte
+84,Sydney,875738,Industrial
+85,Chicago,7493015,Histórico
+86,Barcelona,1113179,Turístico
+87,Pequim,7110572,Turístico
+88,Paris,6590956,Sul
+89,São Petersburgo,9453800,Histórico
+90,Chicago,2641244,Oeste
+91,Berlim,9088083,Sul
+92,São Petersburgo,5760480,Turístico
+93,São Petersburgo,8188508,Turístico
+94,Chicago,9971293,Turístico
+95,Lisboa,4944515,Leste
+96,Londres,8162093,Turístico
+97,Paris,6968396,Sul
+98,Chicago,5297406,Metropolitano
+99,Moscou,8252354,Comercial
+100,Tóquio,8884153,Industrial
+101,Berlim,8133329,Centro
+102,Roma,3340205,Metropolitano
+103,Roma,2792692,Oeste
+104,Roma,2978043,Leste
+105,Buenos Aires,5951948,Oeste
+106,Chicago,3190176,Norte
+107,Nova York,355906,Centro
+108,Pequim,8663151,Norte
+109,Seul,4700993,Norte
+110,Los Angeles,5758425,Leste
+111,Pequim,6339167,Metropolitano
+112,Seul,602597,Centro
+113,Toronto,9236865,Turístico
+114,São Petersburgo,4627359,Industrial
+115,Cidade do Cabo,5152022,Norte
+116,Sydney,1174876,Histórico
+117,Nova York,1262345,Comercial
+118,Chicago,5856398,Norte
+119,Tóquio,821130,Norte
+120,Pequim,7167915,Histórico
+121,Moscou,3947731,Sul
+122,Sydney,1458457,Comercial
+123,Nova York,4238849,Metropolitano
+124,Barcelona,2048386,Centro
+125,Paris,4717780,Norte
+126,Berlim,2675924,Histórico
+127,Pequim,5354519,Centro
+128,Roma,2928097,Industrial
+129,Sydney,3409871,Histórico
+130,Barcelona,5444757,Histórico
+131,Nova York,3842629,Histórico
+132,Sydney,7423824,Leste
+133,Chicago,8335653,Histórico
+134,Toronto,6956170,Comercial
+135,Lisboa,6014345,Metropolitano
+136,Seul,1600145,Centro
+137,Roma,2673570,Leste
+138,Dubai,4850774,Metropolitano
+139,Sydney,9144007,Sul
+140,Dubai,4265018,Turístico
+141,Cidade do Cabo,3349545,Turístico
+142,Dubai,4105117,Metropolitano
+143,Los Angeles,497580,Industrial
+144,Bangcoc,8890521,Leste
+145,Moscou,334969,Industrial
+146,Berlim,4016807,Sul
+147,Chicago,4452167,Norte
+148,Pequim,3702011,Centro
+149,Dubai,5623260,Metropolitano
+150,Barcelona,1771254,Sul
+151,Dubai,9460828,Centro
+152,Paris,1240324,Turístico
+153,Toronto,1579019,Centro
+154,Tóquio,994902,Oeste
+155,Lisboa,7267210,Oeste
+156,Sydney,1886150,Centro
+157,Dubai,4634249,Comercial
+158,Moscou,6719294,Turístico
+159,Bangcoc,8513778,Centro
+160,Barcelona,842967,Industrial
+161,Tóquio,6502071,Comercial
+162,Cidade do Cabo,9992806,Oeste
+163,Lisboa,1053672,Metropolitano
+164,São Petersburgo,330192,Centro
+165,Cidade do Cabo,8922328,Centro
+166,Paris,6856894,Industrial
+167,Berlim,3513771,Oeste
+168,Los Angeles,7462582,Centro
+169,Dubai,6987883,Histórico
+170,Roma,9677395,Leste
+171,São Petersburgo,6757972,Sul
+172,Seul,6577480,Industrial
+173,Sydney,7379886,Turístico
+174,Roma,1765431,Sul
+175,Cidade do Cabo,6535715,Comercial
+176,Pequim,9921028,Norte
+177,Londres,8365874,Centro
+178,Sydney,5247114,Centro
+179,Chicago,1249451,Comercial
+180,Cidade do Cabo,7025050,Histórico
+181,Sydney,7553712,Leste
+182,Pequim,7609173,Histórico
+183,Chicago,1813427,Industrial
+184,Lisboa,6669694,Comercial
+185,Bangcoc,9706756,Turístico
+186,Buenos Aires,4594948,Metropolitano
+187,Lisboa,7437814,Centro
+188,Lisboa,425899,Sul
+189,Tóquio,7882282,Oeste
+190,Roma,3917911,Sul
+191,Berlim,4616627,Industrial
+192,Bangcoc,6541050,Industrial
+193,Toronto,8797960,Turístico
+194,Cidade do Cabo,9377272,Leste
+195,Lisboa,4582086,Sul
+196,Bangcoc,4287319,Turístico
+197,Seul,5843101,Sul
+198,Cidade do Cabo,3292966,Industrial
+199,Toronto,8040754,Metropolitano
+200,Londres,9754089,Metropolitano
+201,Bangcoc,877639,Norte
+202,Pequim,1776533,Histórico
+203,Cidade do Cabo,5514077,Industrial
+204,Cidade do Cabo,8369689,Metropolitano
+205,Roma,6006790,Comercial
+206,Pequim,3250453,Comercial
+207,Toronto,6259191,Comercial
+208,Roma,2324422,Metropolitano
+209,Chicago,7241735,Sul
+210,Toronto,3011851,Norte
+211,Toronto,313175,Metropolitano
+212,São Petersburgo,9188053,Norte
+213,Dubai,6247480,Centro
+214,Toronto,7586524,Leste
+215,Dubai,1857383,Sul
+216,Los Angeles,6145338,Histórico
+217,Los Angeles,995363,Turístico
+218,Dubai,9307478,Turístico
+219,Seul,2725747,Leste
+220,Sydney,7860341,Histórico
+221,Paris,448080,Norte
+222,Dubai,4220031,Oeste
+223,Barcelona,2382283,Leste
+224,Lisboa,3112961,Metropolitano
+225,Londres,2783257,Industrial
+226,Barcelona,116937,Metropolitano
+227,Dubai,7446527,Comercial
+228,Sydney,2692866,Industrial
+229,Seul,962587,Centro
+230,Paris,9490281,Industrial
+231,Roma,8822479,Oeste
+232,Seul,1520801,Industrial
+233,Moscou,2366173,Centro
+234,Chicago,910256,Turístico
+235,Tóquio,7724732,Comercial
+236,Sydney,8057333,Metropolitano
+237,Toronto,7402236,Metropolitano
+238,Chicago,8666142,Metropolitano
+239,Berlim,2693733,Sul
+240,Dubai,8249772,Histórico
+241,Lisboa,5704480,Turístico
+242,Dubai,3457438,Turístico
+243,Los Angeles,2576848,Turístico
+244,Seul,5281369,Metropolitano
+245,Lisboa,5720355,Turístico
+246,Los Angeles,7242708,Oeste
+247,Dubai,8935772,Sul
+248,Seul,565176,Industrial
+249,Berlim,7699110,Metropolitano
+250,Berlim,9214968,Leste
